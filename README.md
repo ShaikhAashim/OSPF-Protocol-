@@ -19,10 +19,15 @@ How OSPF works
 (values in the yellow box)
 ### Connection	Cost
  Router0 ↔ Router2	20
+ 
  Router0 ↔ Router1	50
+ 
  Router2 ↔ Router3	50
+ 
  Router1 ↔ Router3	20
+ 
  Router0 ↔ Router3	25
+ 
 
 ## Example shortest-path calculations
 ### Router0 to Router1
